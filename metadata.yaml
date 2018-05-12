@@ -1,0 +1,45 @@
+_repo: The-Fortunes-Of-Glencore_33556
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Wheeler, Edward J.
+    alias: Wheeler, E. J. (Edward J.)
+    deathdate: 1933
+    gutenberg_agent_id: '25686'
+    url: http://www.gutenberg.org/2009/agents/25686
+  - agent_name: Cooke, W. Cubitt (William Cubitt)
+    aliases:
+    - Cooke, W.C.
+    - Cooke, William Cubitt
+    birthdate: 1866
+    deathdate: 1951
+    gutenberg_agent_id: '35916'
+    url: http://www.gutenberg.org/2009/agents/35916
+covers:
+- cover_type: archival
+  image_path: 33556-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lever, Charles James
+    aliases:
+    - Lorrequer, Harry
+    - O'Dowd, Cornelius
+    birthdate: 1806
+    deathdate: 1872
+    gutenberg_agent_id: '1744'
+    url: http://www.gutenberg.org/2009/agents/1744
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lever
+description: ''
+gutenberg_issued: '2010-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33556'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: The Fortunes Of Glencore
+url: http://www.gutenberg.org/ebooks/33556
